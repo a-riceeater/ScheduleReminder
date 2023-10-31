@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Inter");
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: "Inter", sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+    margin-top: 20%;
+}
