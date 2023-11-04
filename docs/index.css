@@ -13,3 +13,14 @@ h1 {
     font-weight: 800;
     margin-top: 20%;
 }
+
+.create-schedule {
+    font-family: "Raleway", sans-serif;
+    cursor: pointer;
+    height: 35px;
+    width: 200px;
+    background-color: rgb(65, 201, 229);
+    border: 1px solid rgb(65, 201, 229);
+    border-radius: 5px / 5px;
+    font-size: 14px;
+}

@@ -1,0 +1,44 @@
+{
+    "monday": [
+        {
+            "name": "Period 1",
+            "start": "8:50",
+            "end": "9:43"
+        },
+        {
+            "name": "Period 2",
+            "start": "9:47",
+            "end": "10:31"
+        },
+        {
+            "name": "Period 3",
+            "start": "10:35",
+            "end": "11:19"
+        },
+        {
+            "name": "Period 4",
+            "start": "11:23",
+            "end": "12:07"
+        },
+        {
+            "name": "Period 5",
+            "start": "11:23",
+            "end": "11:53"
+        },
+        {
+            "name": "Period 6",
+            "start": "12:45",
+            "end": "1:29"
+        },
+        {
+            "name": "Period 7",
+            "start": "1:33",
+            "end": "2:17"
+        },
+        {
+            "name": "Period 8",
+            "start": "2:21",
+            "end": "3:05"
+        }
+    ]
+}
